@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&family=Prompt:ital,wght@0,700;1,100&family=Roboto&display=swap');
+
+/* font-family: 'Merriweather', serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.divfirst{
+    display: grid;
+    
+}
+h1{
+    font-size: 200xp;
+    text-align: center;
+}
+h4{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.pic1{
+    margin-left: 200px;
+    align-items: end;
+}
+.btn1{
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    margin-left: 250px;
+    margin-top: 5px;
+    cursor: pointer;
+    align-items: start;
+}
+.k1{
+    margin-left: 10px;
+    background-color: lightpink;
+    padding: 15px;
+}
+.btn2{
+    margin-left: 20px;
+    background-color: lightblue;
+    height: 40px;
+    width: 200px;
+    border-radius: 15px ;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    cursor: pointer;
+    border: 0px;
+    margin-left: 250px;
+}
+
+.ph{
+    height: 400px;
+    width: 300px;
+    
+}
